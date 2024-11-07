@@ -9,7 +9,6 @@ This project contains information about gym members, capturing detailed informat
 <h2>Languages and Utilities Used</h2>
 
 - <b>MySQL</b> 
-- <b>Pandas</b>
 - <b>COUNT</b>
 - <b>WHERE</b>
 - <b>GROUP BY</b>
