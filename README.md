@@ -15,4 +15,4 @@ This project contains information about gym members, capturing detailed informat
 
 <h2>File Access</h2>
 
-- <b>Please click the PYTHON file above to view the project</b>
+- <b>Please click the SQL file above to view the project</b>
